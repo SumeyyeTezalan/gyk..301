@@ -22,6 +22,7 @@
             android:layout_width="match_parent"
             android:layout_height="@dimen/buton_yuksekligi" />
         <Button
+            android:onClick="sesKayit"
             style="@style/buton_stili"
             android:background="@color/mavi"
             android:layout_weight="1"
